@@ -12,6 +12,14 @@ import img11 from './img/3-5at-1000.png';
 import img12 from './img/3-5at-2000.png';
 import img13 from './img/3-5ayçiçeği-1000.png';
 import img14 from './img/3-5ayçiçeği-2000.png';
+import img15 from './img/doga.jpg';
+import img16 from './img/dog.jpg';
+import img17 from './img/elma.jpg';
+import img18 from './img/karışık.jpg';
+import img19 from './img/gül.jpeg';
+import img20 from './img/picasso.jpg';
+import img21 from './img/at.jpg';
+import img22 from './img/ayçiçeğ.jpg';
 
 const data = [
     {
@@ -111,6 +119,62 @@ const data = [
         stepSize: '2000',
         category: 'Mixed3-Mixed5',
         description: 'This photo was created using the mixed3 and mixed5 layers, 2000 steps and 0.001 step size.'
-    }
+    },
+    {
+        id:15,
+        image: img15,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:16,
+        image: img16,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:17,
+        image: img17,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:18,
+        image: img18,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:19,
+        image: img19,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:20,
+        image: img20,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:21,
+        image: img21,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:22,
+        image: img22,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
 ];
 export default data;
