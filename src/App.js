@@ -10,7 +10,7 @@ console.log(allCategories);
 
 function App() {
   const [menuItem, setMenuItem] = useState(items);
-  const [buttons, setButtons] = useState(allCategories);
+  const buttons= allCategories;
 
   //Filter Function
   const filter = (button) =>{
