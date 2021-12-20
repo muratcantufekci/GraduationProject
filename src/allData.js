@@ -13,7 +13,7 @@ import img12 from './img/3-5at-2000.png';
 import img13 from './img/3-5ayçiçeği-1000.png';
 import img14 from './img/3-5ayçiçeği-2000.png';
 
-export default [
+const data = [
     {
         id:1,
         image: img1,
@@ -113,3 +113,4 @@ export default [
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
     }
 ];
+export default data;
