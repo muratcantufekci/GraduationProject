@@ -19,98 +19,98 @@ const data = [
         image: img1,
         stepSize: '2000',
         category: 'Mixed1-Mixed2',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed2 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:2,
         image: img2,
         stepSize: '2000',
         category: 'Mixed1-Mixed2',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed2 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:3,
         image: img3,
         stepSize: '1000',
         category: 'Mixed1-Mixed3',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed3 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:4,
         image: img4,
         stepSize: '2000',
         category: 'Mixed1-Mixed3',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed3 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:5,
         image: img5,
         stepSize: '1000',
         category: 'Mixed1-Mixed3',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed3 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:6,
         image: img6,
         stepSize: '2000',
         category: 'Mixed1-Mixed3',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed1 and mixed3 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:7,
         image: img7,
         stepSize: '1000',
         category: 'Mixed2-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed2 and mixed5 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:8,
         image: img8,
         stepSize: '2000',
         category: 'Mixed2-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed2 and mixed5 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:9,
         image: img9,
         stepSize: '1000',
         category: 'Mixed2-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed2 and mixed5 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:10,
         image: img10,
         stepSize: '2000',
         category: 'Mixed2-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed2 and mixed5 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:11,
         image: img11,
         stepSize: '1000',
         category: 'Mixed3-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed3 and mixed5 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:12,
         image: img12,
         stepSize: '2000',
         category: 'Mixed3-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed3 and mixed5 layers, 2000 steps and 0.001 step size.'
     },
     {
         id:13,
         image: img13,
         stepSize: '1000',
         category: 'Mixed3-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed3 and mixed5 layers, 1000 steps and 0.001 step size.'
     },
     {
         id:14,
         image: img14,
         stepSize: '2000',
         category: 'Mixed3-Mixed5',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
+        description: 'This photo was created using the mixed3 and mixed5 layers, 2000 steps and 0.001 step size.'
     }
 ];
 export default data;

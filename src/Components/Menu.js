@@ -14,7 +14,7 @@ function Menu({menuItem}) {
                                 <img  src={item.image} alt=""/> 
                                 </a>
                             </Fancybox>
-                            <h2>Step Size : {item.stepSize}</h2>
+                            <h2>Step : {item.stepSize}</h2>
                             <p>{item.description}</p>
                         </div>
                     </div>
