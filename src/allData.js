@@ -12,14 +12,18 @@ import img11 from './img/3-5at-1000.png';
 import img12 from './img/3-5at-2000.png';
 import img13 from './img/3-5ayçiçeği-1000.png';
 import img14 from './img/3-5ayçiçeği-2000.png';
-import img15 from './img/doga.jpg';
-import img16 from './img/dog.jpg';
-import img17 from './img/elma.jpg';
-import img18 from './img/karışık.jpg';
-import img19 from './img/gül.jpeg';
-import img20 from './img/picasso.jpg';
-import img21 from './img/at.jpg';
-import img22 from './img/ayçiçeğ.jpg';
+import img15 from './img/elma_4_ve_8_1000_0.01.PNG';
+import img16 from './img/elma_4_ve_8_0.01_2000.PNG';
+import img17 from './img/KARISIK_1000_4_VE_8_0.01.PNG';
+import img18 from './img/KARISIK_2000_4_VE_8_0.01.PNG';
+import img19 from './img/doga.jpg';
+import img20 from './img/dog.jpg';
+import img21 from './img/elma.jpg';
+import img22 from './img/karışık.jpg';
+import img23 from './img/gül.jpeg';
+import img24 from './img/picasso.jpg';
+import img25 from './img/at.jpg';
+import img26 from './img/ayçiçeğ.jpg';
 
 const data = [
     {
@@ -123,30 +127,30 @@ const data = [
     {
         id:15,
         image: img15,
-        stepSize: '0',
-        category: 'Original Picture',
-        description: 'Original picture.'
+        stepSize: '1000',
+        category: 'Mixed4-Mixed8',
+        description: 'This photo was created using the mixed4 and mixed8 layers, 1000 steps and 0.01 step size.'
     },
     {
         id:16,
         image: img16,
-        stepSize: '0',
-        category: 'Original Picture',
-        description: 'Original picture.'
+        stepSize: '2000',
+        category: 'Mixed4-Mixed8',
+        description: 'This photo was created using the mixed4 and mixed8 layers, 2000 steps and 0.01 step size.'
     },
     {
         id:17,
         image: img17,
-        stepSize: '0',
-        category: 'Original Picture',
-        description: 'Original picture.'
+        stepSize: '1000',
+        category: 'Mixed4-Mixed8',
+        description: 'This photo was created using the mixed4 and mixed8 layers, 1000 steps and 0.01 step size.'
     },
     {
         id:18,
         image: img18,
-        stepSize: '0',
-        category: 'Original Picture',
-        description: 'Original picture.'
+        stepSize: '2000',
+        category: 'Mixed4-Mixed8',
+        description: 'This photo was created using the mixed4 and mixed8 layers, 2000 steps and 0.01 step size.'
     },
     {
         id:19,
@@ -172,6 +176,34 @@ const data = [
     {
         id:22,
         image: img22,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:23,
+        image: img23,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:24,
+        image: img24,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:25,
+        image: img25,
+        stepSize: '0',
+        category: 'Original Picture',
+        description: 'Original picture.'
+    },
+    {
+        id:26,
+        image: img26,
         stepSize: '0',
         category: 'Original Picture',
         description: 'Original picture.'
