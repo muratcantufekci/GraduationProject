@@ -31,6 +31,11 @@ h2{
   margin: 1rem 0;
 }
 
+h2 a {
+  color: white;
+  
+}
+
 p{
   color: rgba(255, 255, 255, 0.596);
 }

@@ -32,6 +32,7 @@ function App() {
            Who We Are ?
          </h1>
          <h2>Our names are Muratcan Tüfekçi and Arif Tanzer Kırar. In this project, we aimed to create new patterns with artificial intelligence in order to facilitate the lives of artists and contribute to their creativity. And by turning it into a web gallery, we wanted users to see the results of our project. You can view our photos divided into layer filters below. Enjoy the patterns produced with artificial intelligence :)</h2>
+         <h2><a href='https://docs.google.com/document/d/1cCNnsba8ux1lZBiqLl75HC0SNWCxRvkZYp_PjJ097Ig/edit' target="_blank" rel="noreferrer">Click here to download the source code and start creating new desing patterns</a></h2>
        </div>
        
        <div className="title">
